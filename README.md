@@ -1,5 +1,7 @@
 # incubadora
-[ Projeto Incubadora ] Monitoria para iniciar em programação do ZERO! HTML básico ate um sistema de vídeo locadora em PHP.
+[ Projeto Incubadora ] Monitoria para iniciar em programação do ZERO! HTML básico até um sistema de vídeo locadora em PHP.
+
+Ver as páginas do projeto: https://paulocesarrj.github.io/incubadora/
 
 * Instalação do Sublime + Packet Control:
 1) IDE Sublime -> https://www.sublimetext.com/3
