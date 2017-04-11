@@ -1,9 +1,11 @@
 # incubadora
 [ Projeto Incubadora ] Monitoria para iniciar em programação do ZERO! HTML básico até um sistema de vídeo locadora em PHP.
 
-Blog: http://www.incubadora.blog/
-Github: https://github.com/paulocesarrj/incubadora
-Ver as páginas do projeto: https://paulocesarrj.github.io/incubadora/
+<ul>
+<li>Blog: http://www.incubadora.blog/</li>
+<li>Github: https://github.com/paulocesarrj/incubadora</li>
+<li>Ver as páginas do projeto: https://paulocesarrj.github.io/incubadora/</li>
+</ul>
 
 * Instalação do Sublime + Packet Control:
 1) IDE Sublime -> https://www.sublimetext.com/3
