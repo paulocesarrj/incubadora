@@ -39,3 +39,22 @@ Link no blog: http://www.incubadora.blog/2017/04/06/monitoria-002-30032017/
 - Assuntos: Instalação do ambiente do servidor local (apache, php e mysql) com o xampp + conexão com banco de dados via php + criação de tabela via phpmyadmin.
 
 Link no blog: http://www.incubadora.blog/2017/04/07/monitoria-003-07042017/
+
+------------------
+
+# Monitoria #004 - 11/04/2017
+
+- Monitor responsável: Paulo Cesar Di Cicco.
+
+<h1>Exercícios</h1>
+Assunto: Exercício de Formuário: Envio e resgatando dados do formulário em php.
+<ol>
+	<li>[Formulário] Organize o formulário abaixo dentro de uma tabela conforme a imagem: <a target="_blank" href="http://www.incubadora.blog/monitoria/img/modelo-tabela-form-monitoria-13-04-2107.JPG" />clique aqui para ver o modelo da tabela</a></li>
+	<li>[Formulário] Colocar limite de caracteres (usar bom senso) nos campos que são de preenchimento.</li>
+	<li>[Formulário] Colocar ordem no uso do tab nos campos</li>
+	<li>[Formulário] Colocar o texto exemplo dentro dos inputs ("Ex: Sua Cidade") | Dica: placeholder</li>
+	<li>[Página de retorno] Adicione a hora na resposta do formulário</li>
+	<li>[Página de retorno] Validar o retorno do item Cidade (Exemplo no campo de newsletter)</li>
+</ol>
+
+Link no blog: http://www.incubadora.blog/2017/04/11/monitoria-004-11042017/
