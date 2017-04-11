@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="utf-8"/>
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+	
+	<!-- Arquivo CSS do bootstrap ONLINE -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link href="../css/index.css" rel="stylesheet"/> <!-- seu css -->
+
+	<title>[Incubadora] Monitoria - 11/04/2017</title>
+
+	<link href="css/index.css" rel="stylesheet"/> <!-- seu css -->
+
+</head>
+
+<body>
+
+<h1>Exercícios</h1>
+<ol>
+	<li>[Formulário] Organize o formulário abaixo dentro de uma tabela conforme a imagem: <a target="_blank" href="http://www.incubadora.blog/monitoria/img/modelo-tabela-form-monitoria-13-04-2107.JPG" />clique aqui para ver o modelo da tabela</a></li>
+	<li>[Formulário] Colocar limite de caracteres (usar bom senso) nos campos que são de preenchimento.</li>
+	<li>[Formulário] Colocar ordem no uso do tab nos campos</li>
+	<li>[Formulário] Colocar o texto exemplo dentro dos inputs ("Ex: Sua Cidade") | Dica: placeholder</li>
+	<li>[Página de retorno] Adicione a hora na resposta do formulário</li>
+	<li>[Página de retorno] Validar o retorno do item Cidade (Exemplo no campo de newsletter)</li>
+</ol>
+
+<hr/>
+
+	<form action="resposta.php" method="post">
+		<h4>[Incubadora] Monitoria - 11/04/2017</h4>
+		<br/>
+		Nome:<br>
+		<input type="text" name="nome" value="">
+		<br>
+		
+		Idade:<br>
+		<input type="text" name="idade" value="">
+		<br>
+
+		Sexo:<br>
+		<select name="sexo">
+			<option value="m">Masculino</option>
+			<option value="f">Feminino</option>
+		</select>
+		<br>
+
+		Cidade:<br/>
+		<input type="radio" name="cidade" value="rio-de-janeiro"> Rio de Janeiro<br>
+		<input type="radio" name="cidade" value="niteroi"> Niterói<br>
+		<input type="radio" name="cidade" value="sao-goncalo"> São Gonçalo<br>
+		<br>
+
+		Marque a caixa para receber nossa newsletter: <input type="checkbox" name="newsletter" value="1">
+		<br><br>
+
+		<input type="submit" value="Enviar">
+
+	</form> 
+
+</body>
+</html>
