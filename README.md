@@ -49,6 +49,13 @@ Link no blog: http://www.incubadora.blog/2017/04/07/monitoria-003-07042017/
 - Monitor responsável: Paulo Cesar Di Cicco.
 - Assunto: Enviando e resgatando dados do formulário em php.
 
+<hr/>
+
+- Diretório adicionado: '/formulario'
+- Arquivo: /formulario/formulario.html = página do formulário
+- Arquivo: /formulario/resposta.php = página do retorno do formulário
+
+
 <h1>Exercícios</h1>
 <ol>
 	<li>[Formulário] Organize o formulário abaixo dentro de uma tabela conforme a imagem: <a target="_blank" href="http://www.incubadora.blog/monitoria/img/modelo-tabela-form-monitoria-13-04-2107.JPG" />clique aqui para ver o modelo da tabela</a></li>
